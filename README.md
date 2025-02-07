@@ -11,7 +11,7 @@ Aplicación en Python para nivelar audios en lote para DJs y radios online
 bash
 Copiar
 Editar
-git clone https://github.com/tuusuario/normalizador.git
+git clone [https://github.com/guerreroxp/normalizador.git](https://github.com/guerreroxp/Normalizador-de-audio.git)
 cd normalizador
 pip install -r requirements.txt
 ⚡ Uso
